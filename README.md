@@ -23,4 +23,11 @@ or
 ```bash
 python3 app.py
 ```
-Then it'll redirect to the webpage...
+Few snapshots of the same 
+1. ![until15](https://github.com/balananujith/Diabetes_Prediction_Using_ML/assets/118455793/37dccc64-ac42-4292-ba63-c4ef3f4b5d0f)
+2. ![until16](https://github.com/balananujith/Diabetes_Prediction_Using_ML/assets/118455793/01a3fa32-7d24-4220-9232-aac20a8ae575)
+3. ![until 17](https://github.com/balananujith/Diabetes_Prediction_Using_ML/assets/118455793/74a8dd63-1016-4bce-8b37-6450e1f885a0)
+4. ![until18](https://github.com/balananujith/Diabetes_Prediction_Using_ML/assets/118455793/fa728dd6-1167-4e2c-981e-b69b0cd841e7)
+
+
+
